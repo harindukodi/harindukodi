@@ -1,16 +1,24 @@
-### Hi there 👋
+# Hi 👋, I'm Harindu!
 
-<!--
-**harindukodi/harindukodi** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+### 🌟 Overview: ###
 
-Here are some ideas to get you started:
+- ☁️ Associate Consultant @ Servian
+- 💻 Ex-Software Engineer @ DataMPowered
+- 🖥️ Ex-Software Engineer @ IFS
+- 🎓 Master of Information Technology specialized in cloud computing and data science at RMIT University, Australia (December 2021)
+- 🎓 BEng in Computer Science at Staffordshire University, UK (December 2017)
+- 🏎️	F1 Fan
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+### 📅 Currently: ###
+
+- 🛠 Skills: Python, AWS, Docker, Django, Bash, DBT, Snowflake, AngularJS, JavaScript, Java
+- 🔗 Meetup Groups: GDG Cloud Melbourne
+- 🦘 Living in Melbourne, Australia
+
+
+### 🌐 Find Me Online: ###
+
+- 🐤 Twitter: [@harindukodi](https://twitter.com/harindukodi)
+- 👥 LinkedIn: [harindukodi](https://www.linkedin.com/in/harindukodi/)
+- 📁 Medium: [@harindu](https://medium.com/@harindu) 
