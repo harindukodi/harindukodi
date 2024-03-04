@@ -2,7 +2,9 @@
 
 ### 🌟 Overview: ###
 
-- ☁️ Associate Consultant @ Servian
+- ☁️ Data Scientist @ NAB
+- ☁️ Consultant @ Cognizant Australia
+- ☁️ Ex-Consultant @ Servian
 - 💻 Ex-Software Engineer @ DataMPowered
 - 🖥️ Ex-Software Engineer @ IFS
 - 🎓 Master of Information Technology specialized in cloud computing and data science at RMIT University, Australia (December 2021)
@@ -12,7 +14,7 @@
 
 ### 📅 Currently: ###
 
-- 🛠 Skills: Python, AWS, Docker, Django, Bash, DBT, Snowflake, AngularJS, JavaScript, Java
+- 🛠 Skills: Python, pySpark, Databricks, AWS, Docker, Django, Bash, DBT, Snowflake, AngularJS, JavaScript, Java
 - 🔗 Meetup Groups: GDG Cloud Melbourne
 - 🦘 Living in Melbourne, Australia
 
